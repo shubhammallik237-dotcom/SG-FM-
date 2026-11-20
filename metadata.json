@@ -1,0 +1,6 @@
+{
+  "name": "SGFM - Top Audio Stories & Audiobooks",
+  "description": "SGFM is a premium audio novel streaming platform featuring ultra-realistic AI voice narration, cinematic BGM, and dynamic visual scenes across 10+ regional languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
